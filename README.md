@@ -51,6 +51,8 @@ Visit the live website:
 
 https://mshousekeeping.com
 
+Project Documentation: https://github.com/Afraazz/ms-housekeeping-case-study
+
 ## Project Screenshots
 
 ### Screenshot 1
