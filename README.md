@@ -51,7 +51,19 @@ Visit the live website:
 
 https://mshousekeeping.com
 
-<!-- Add approved project screenshots here -->
+## Project Screenshots
+
+### Homepage
+![MS Housekeeping Homepage](screenshots/homepage.png)
+
+### Services
+![MS Housekeeping Services](screenshots/services.png)
+
+### About Us
+![About MS Housekeeping](screenshots/about.png)
+
+### Contact & Booking
+![MS Housekeeping Contact](screenshots/contact.png)
 
 ## Project Information
 
