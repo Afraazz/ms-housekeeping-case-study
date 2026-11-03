@@ -53,17 +53,17 @@ https://mshousekeeping.com
 
 ## Project Screenshots
 
-### Homepage
-![MS Housekeeping Homepage](screenshots/homepage.png)
+### Screenshot 1
+![MS Housekeeping Screenshot 1](screenshots/s1.1.PNG)
 
-### Services
-![MS Housekeeping Services](screenshots/services.png)
+### Screenshot 2
+![MS Housekeeping Screenshot 2](screenshots/s1.2.PNG)
 
-### About Us
-![About MS Housekeeping](screenshots/about.png)
+### Screenshot 3
+![MS Housekeeping Screenshot 3](screenshots/s1.3.PNG)
 
-### Contact & Booking
-![MS Housekeeping Contact](screenshots/contact.png)
+### Screenshot 4
+![MS Housekeeping Screenshot 4](screenshots/s1.4.PNG)
 
 ## Project Information
 
